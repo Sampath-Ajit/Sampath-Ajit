@@ -2,8 +2,8 @@
 
 **Application Security Specialist** — I find, prove, and explain security bugs in software, and I build the tooling to catch them before they ship.
 
-- 🎓 Currently pursuing a **Master's in Cybersecurity** in the United States
-- 💼 **2 years professional experience** at Tata Consultancy Services (TCS)
+- 🎓 Currently pursuing a **Master's in Cybersecurity** at **Eastern Illinois University** (USA)
+- 💼 **2 years as an Application Security Engineer** at Tata Consultancy Services (TCS)
 - 🛡️ Building a hands-on security practice: secure code review, OWASP Top 10 from source, SDLC security automation
 
 ---
